@@ -2,9 +2,10 @@
 
 # 👋 Hi there, I'm Tatsuki Kitamura
 
-**🇯🇵 Japanese Programmer | Competitive Programmer | Software Developer**
+**🇯🇵 Japanese Engineer | Competitive Programmer | Software Developer**
 
 [![Profile Views](https://komarev.com/ghpvc/?username=tatsukikitamura&color=blue&label=Profile+Views)](https://github.com/tatsukikitamura)
+[![Website](https://img.shields.io/badge/Website-tatsuki.dev-58A6FF?style=flat-square&logo=link)](https://tatsuki.dev)
 
 
 </div>
