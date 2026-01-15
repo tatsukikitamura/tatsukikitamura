@@ -12,20 +12,6 @@
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tatsukikitamura&theme=github-dark&hide_border=true&background=0D1117)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tatsukikitamura&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=tatsukikitamura&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF)
-
-</div>
-
----
-
 ## 🏆 Competitive Programming
 
 <div align="center">
