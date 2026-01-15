@@ -17,7 +17,10 @@
 <div align="center">
 
 <a href="https://atcoder.jp/users/oreccchi">
-  <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Foreccchi" alt="AtCoder Algorithm">
+  <img src="https://atrating.baoshuo.dev/rating?username=oreccchi&type=algo" alt="AtCoder Algorithm">
+</a>
+<a href="https://atcoder.jp/users/oreccchi?contestType=heuristic">
+  <img src="https://atrating.baoshuo.dev/rating?username=oreccchi&type=heuristic" alt="AtCoder Heuristic">
 </a>
 
 </div>
