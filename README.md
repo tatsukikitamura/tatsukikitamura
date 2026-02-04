@@ -12,20 +12,6 @@
 
 ---
 
-## 🏆 Competitive Programming
-
-<div align="center">
-
-<a href="https://atcoder.jp/users/oreccchi">
-  <img src="https://atrating.baoshuo.dev/rating?username=oreccchi&type=algo" alt="AtCoder Algorithm">
-</a>
-<a href="https://atcoder.jp/users/oreccchi?contestType=heuristic">
-  <img src="https://atrating.baoshuo.dev/rating?username=oreccchi&type=heuristic" alt="AtCoder Heuristic">
-</a>
-
-</div>
-
----
 
 ## 🛠️ Tech Stack
 
