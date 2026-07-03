@@ -1,27 +1,43 @@
 <div align="center">
 
-# 👋 Hi there, I'm Tatsuki Kitamura
+```text
+ ● ONLINE — TOKYO
 
-**🇯🇵 Japanese Engineer | Competitive Programmer | Software Developer**
+████████╗ █████╗ ████████╗███████╗██╗   ██╗██╗  ██╗██╗
+╚══██╔══╝██╔══██╗╚══██╔══╝██╔════╝██║   ██║██║ ██╔╝██║
+   ██║   ███████║   ██║   ███████╗██║   ██║█████╔╝ ██║
+   ██║   ██╔══██║   ██║   ╚════██║██║   ██║██╔═██╗ ██║
+   ██║   ██║  ██║   ██║   ███████║╚██████╔╝██║  ██╗██║
+   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
 
-[![Profile Views](https://komarev.com/ghpvc/?username=tatsukikitamura&color=blue&label=Profile+Views)](https://github.com/tatsukikitamura)
-[![Website](https://img.shields.io/badge/Website-tatsuki.dev-58A6FF?style=flat-square&logo=link)](https://tatsuki.dev)
+ > I am a software engineer ▊
+   // Rails / React / SwiftUI
+```
 
+**北村健紀 / Tatsuki Kitamura** — Software Engineer, Tokyo
 
-</div>
-
----
-
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+[**tatsuki.dev →**](https://tatsuki.dev)&ensp;·&ensp;[AtCoder](https://atcoder.jp/users/oreccchi)&ensp;·&ensp;[Request](https://tatsuki.dev/contact)
 
 </div>
 
----
+<br>
 
+`━━━ FEATURED WORK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
+
+<br>
+
+`[01]` **[Yamatomo](https://tatsuki.dev/projects)**<br>
+登山者のコミュニティアプリ。iOS + Web 並行開発。<br>
+`SwiftUI · React · Firebase`
+
+`[02]` **[AtCoder](https://atcoder.jp/users/oreccchi)**<br>
+Algorithm 茶 / Heuristic 青（1603）。約2年継続中。<br>
+`Python · C++`
+
+`[03]` **[MBTI × AI](https://github.com/tatsukikitamura/CREATIVEHACKAWARD10-6)**<br>
+物語形式の MBTI 診断 × 生成AI。<br>
+`Rails · OpenAI · Redis`
+
+<br>
+
+[`$ ls projects/ --all →`](https://tatsuki.dev/projects)
