@@ -1,18 +1,9 @@
 <div align="center">
 
-```text
- ● ONLINE — TOKYO
-
-     ████████╗ █████╗ ████████╗███████╗██╗   ██╗██╗  ██╗██╗
-    ╚══██╔══╝██╔══██╗╚══██╔══╝██╔════╝██║   ██║██║ ██╔╝██║
-      ██║   ███████║   ██║   ███████╗██║   ██║█████╔╝ ██║
-     ██║   ██╔══██║   ██║   ╚════██║██║   ██║██╔═██╗ ██║
-    ██║   ██║  ██║   ██║   ███████║╚██████╔╝██║  ██╗██║
-   ╚═╝   ╚═╝  ╚═╝   ╚═╝   ╚══════╝ ╚═════╝ ╚═╝  ╚═╝╚═╝
-
- > I am a software engineer ▊
-   // Rails / React / SwiftUI
-```
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tatsukikitamura/tatsukikitamura/main/assets/hero-dark.svg">
+  <img src="https://raw.githubusercontent.com/tatsukikitamura/tatsukikitamura/main/assets/hero-light.svg" alt="● ONLINE — TOKYO · TATSUKI · I am a software engineer // Rails / React / SwiftUI" width="520">
+</picture>
 
 **北村健紀 / Tatsuki Kitamura** — Software Engineer, Tokyo
 
@@ -22,9 +13,7 @@
 
 <br>
 
-`━━━ FEATURED WORK ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━`
-
-<br>
+## <samp>FEATURED WORK</samp>
 
 `[01]` **[Yamatomo](https://tatsuki.dev/projects)**<br>
 登山者のコミュニティアプリ。iOS + Web 並行開発。<br>
